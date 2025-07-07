@@ -48,7 +48,7 @@ export default function WavesDemo() {
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
             BonkDivine
           </h1>
-          <p className="text-xl text-gray-300 mb-8">Combine Chinese divination culture with AI. </p>
+          <p className="text-xl text-gray-300 mb-2">Combine Chinese divination culture with AI. </p>
           <p className="text-xl text-gray-300 mb-8">“卜” ON BONK </p>
 
           <div className="flex gap-4 justify-center mb-8">
