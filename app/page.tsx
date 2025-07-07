@@ -27,11 +27,11 @@ export default function WavesDemo() {
       <Waves {...config} />
 
       {/* Twitter Icon in top right corner */}
-      <div className="fixed top-6 right-6 z-30">
+      <div className="fixed top-3 right-3 z-30">
         <Button
           variant="outline"
           size="icon"
-          onClick={() => window.open("https://twitter.com", "_blank")}
+          onClick={() => window.open("https://x.com/bonkdivinefun", "_blank")}
           className="bg-white/10 border-white/20 text-white hover:bg-white/20 hover:scale-110 transition-all duration-300 backdrop-blur-sm"
           aria-label="Follow us on Twitter"
         >
