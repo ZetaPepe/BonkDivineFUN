@@ -46,9 +46,10 @@ export default function WavesDemo() {
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-white">
         <div className="text-center mb-8">
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-            Interactive Waves
+            BonkDivine
           </h1>
-          <p className="text-xl text-gray-300 mb-8">Move your mouse to interact with the wave field</p>
+          <p className="text-xl text-gray-300 mb-8">Combine Chinese divination culture with AI. </p>
+          <p className="text-xl text-gray-300 mb-8">“卜” ON BONK </p>
 
           <div className="flex gap-4 justify-center mb-8">
             {/* X Button - Links to X.com */}
