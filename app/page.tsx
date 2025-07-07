@@ -43,7 +43,7 @@ export default function WavesDemo() {
       <FloatingFortuneTeller />
 
       {/* Content overlay */}
-      <div className="relative z-10 flex flex-col items-center justify-center h-full text-white">
+      <div className="relative z-10 flex flex-col items-center justify-center h-full text-white pt-20">
         <div className="text-center mb-8">
           <h1 className="text-6xl font-bold mb-4 bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
             BonkDivine
