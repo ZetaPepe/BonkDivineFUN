@@ -50,7 +50,6 @@ export default function WavesDemo() {
           </h1>
           <p className="text-xl text-gray-300 mb-2">Combine Chinese divination culture with AI. </p>
           <p className="text-xl text-gray-300 mb-8">“卜” ON BONK </p>
-          <p className="text-xl text-gray-300 mb-2">2WPiNJsEjAVU85NueTr1JxFUhnFDKMbneMTRurMYbonk </p>
 
           <div className="flex gap-4 justify-center mb-8">
             {/* X Button - Links to X.com */}
