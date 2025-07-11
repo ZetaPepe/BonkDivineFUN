@@ -64,7 +64,7 @@ export default function WavesDemo() {
             {/* Dex Screener Button - Links to DexScreener */}
             <Button
               variant="outline"
-              onClick={() => window.open("https://dexscreener.com", "_blank")}
+              onClick={() => window.open("https://dexscreener.com/solana/dar5hkw75dgs5mpoixw4bzxrxgwerybww6yw6ch37h72", "_blank")}
               className="bg-white/10 border-white/20 text-white hover:bg-white/20"
             >
               Dex Screener
